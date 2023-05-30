@@ -13,3 +13,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR_URL: ${{ github.event.pull_request.html_url }}
+[![Post welcome comment](https://github.com/E-Franklin/skills-hello-github-actions/actions/workflows/welcome.yml/badge.svg)](https://github.com/E-Franklin/skills-hello-github-actions/actions/workflows/welcome.yml)
